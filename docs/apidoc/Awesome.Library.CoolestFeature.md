@@ -4,7 +4,7 @@ some_property: value
 ---
 안녕하세요. Awesome.Library 의 CoolestFeature 에 대한 배경설명을 드리겠습니다. 
 
-![coolest](/images/coolest.png)
+![coolest](images/coolest.png)
 
 Ex minim pariatur cillum ullamco nulla est ea aliquip. Ut sint cupidatat pariatur sint culpa. Do labore ipsum ex cupidatat.
 

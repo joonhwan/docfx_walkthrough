@@ -2,6 +2,8 @@
 
 이것은 소개 페이지입니다. 
 
+![awesome](images/awesome.jpg)
+
 Id sint veniam Lorem non occaecat esse ea Lorem magna. Quis quis proident culpa fugiat et adipisicing cupidatat velit qui elit do elit. Occaecat esse nisi veniam pariatur anim consectetur est ipsum fugiat duis irure non ea nisi.
 
 Fugiat culpa laboris commodo labore ex irure officia est pariatur aute culpa. Nulla sint laborum cupidatat laboris. Qui do occaecat in nisi. Nisi excepteur eiusmod incididunt qui ullamco commodo nulla eiusmod duis.
