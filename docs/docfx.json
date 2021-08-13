@@ -3,13 +3,16 @@
     {
       "src": [
         {
+          "src": "../src",
           "files": [
-            "src/**.csproj"
+            "**/**.csproj_not_working_in_net50",
+            "**/bin/release/net5.0/*.dll"
+
           ]
         }
       ],
       "dest": "api",
-      "disableGitFeatures": false,
+      "disableGitFeatures": true,
       "disableDefaultFilter": false
     }
   ],
